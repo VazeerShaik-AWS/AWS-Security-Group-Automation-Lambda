@@ -59,7 +59,7 @@ Real-world production automation
 
 
 
-## 👨‍💻 Author
+## Author
 
 **Vazeer Shaik**
 
