@@ -4,6 +4,8 @@ PROJECT 7
 "AUTOMATED SECURITY GROUP UPDATES USING LAMBDA & SNS"
 
 
+
+
 OBJECTIVE:
 
 Automatically update Security Groups when CloudFront IPs change
@@ -13,11 +15,15 @@ Eliminate manual security rule maintenance
 Ensure continuous secure access
 
 
+
+
 PROBLEM STATEMENT:
 
 AWS CloudFront IP ranges change frequently
 
 Manual updates cause security risks and downtime
+
+
 
 
 ARCHITECTURE OVERVIEW:
@@ -29,6 +35,8 @@ Lambda fetches AWS IP ranges
 Security Groups updated dynamically
 
 Rule limits handled programmatically
+
+
 
 
 AWS SERVICES USED:
@@ -44,6 +52,8 @@ IAM
 Amazon VPC
 
 
+
+
 BUSINESS IMPACT:
 
 Zero manual intervention
@@ -51,6 +61,7 @@ Zero manual intervention
 Continuous compliance
 
 Real-world production automation
+
 
 
 
