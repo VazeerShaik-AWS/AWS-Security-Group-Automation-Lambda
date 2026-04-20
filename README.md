@@ -1,4 +1,4 @@
-# Automated Security Group Updates using AWS Lambda & SNS
+# Automated Security Group Automation Updates using AWS Lambda 
 
 ## Overview
 
